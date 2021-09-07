@@ -2,7 +2,7 @@
 
 #### DEMO
 
-[Live:](https://comfy-housee.netlify.app) 👀
+Comfy House [LIVE](https://comfy-housee.netlify.app) 👀
 
 ### Comfy House is a part of a website which is focused on shopping cart section.
  
